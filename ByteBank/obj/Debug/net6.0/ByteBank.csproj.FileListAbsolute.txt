@@ -1,0 +1,5 @@
+C:\Users\italo\Documents\Projetos em C#\Variaveis em C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos em C#\Variaveis em C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos em C#\Variaveis em C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos em C#\Variaveis em C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos em C#\Variaveis em C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
